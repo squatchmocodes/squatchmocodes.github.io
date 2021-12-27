@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.squatchmocodes.com",
-    title: "squatchmocodes",
+    pathPrefix: "/squatchmocodes.github.io"
   },
   plugins: [],
 };
